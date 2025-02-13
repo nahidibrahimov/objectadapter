@@ -1,2 +1,2 @@
 # Object Adapter
-Adapter design pattern (by instantiating target object) example in java
+Adapter design pattern (using composition) example in java
